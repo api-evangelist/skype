@@ -1,0 +1,66 @@
+{
+    "name": "Skype",
+    "description": "Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for Business for effective collaboration.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/249-skype.jpg",
+    "tags": [
+        "chats",
+        "communications",
+        "have api",
+        "messages",
+        "networks",
+        "phones",
+        "telecommunications",
+        "voip"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/skype\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Skype",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/249-skype.jpg",
+            "humanURL": "https:\/\/developer.skype.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/skype-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.skype.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/skypedevzone"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/skype"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/skype"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/skype"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/skype"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.skype.com\/"
+        }
+    ]
+}
